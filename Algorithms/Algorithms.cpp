@@ -1,8 +1,8 @@
 #include "stdafx.h"
 #include <iostream>
-#include<string>
-#include<vector>
-#include<ctime>
+#include <string>
+#include <vector>
+#include <ctime>
 
 using namespace std;
 
